@@ -32,7 +32,16 @@
 # git branch
 
 - xem tên của các thành viên trong dự án.
+  <<<<<<< HEAD
 - git checkout -b {branch name}.(câu lệnh để trỏ đến tên thành viên).
+
+=======
+
+- git branch -d (tên role) => để xóa 1 role.
+- git checkout -b {branch name}.(câu lệnh để gán tên thành viên). VD: git checkout -b dev thì dev sẽ đc trở thành tên 1 thành viên
+- git checkout (tên thành viên) để về lại với vai trò đó.
+  VD: git checkout master thì sẽ về lại với role master.
+  > > > > > > > dev
 
 # git merge
 
