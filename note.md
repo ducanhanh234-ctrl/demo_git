@@ -20,3 +20,10 @@
 
 - chính thức lưu file
 - cú pháp: git commit -m 'ghi chú'
+
+# git log
+
+- xem các thời điểm đã lưu.
+- đánh để xem kết quả gọn hơn: git log --oneline
+- git checkout (Id của thời điểm đã lưu).
+  VD: git checkout c4759fd
