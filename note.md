@@ -15,3 +15,8 @@
 # git reset
 
 - xóa 1 file lưu tại thời điểm này.
+
+# git commit
+
+- chính thức lưu file
+- cú pháp: git commit -m 'ghi chú'
