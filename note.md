@@ -33,3 +33,8 @@
 
 - xem tên của các thành viên trong dự án.
 - git checkout -b {branch name}.(câu lệnh để trỏ đến tên thành viên).
+
+# git merge
+
+- tổng hợp lại code về role chính.
+  VD: git merge dev thì code ở role dev sẽ nhập vào role master.
