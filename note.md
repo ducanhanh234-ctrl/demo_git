@@ -33,3 +33,5 @@
 
 - xem tên của các thành viên trong dự án.
 - git checkout -b {branch name}.(câu lệnh để gán tên thành viên). VD: git checkout -b dev thì dev sẽ đc trở thành tên 1 thành viên
+- git checkout (tên thành viên) để về lại với vai trò đó.
+  VD: git checkout master thì sẽ về lại với role master.
