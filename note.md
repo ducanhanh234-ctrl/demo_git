@@ -32,4 +32,4 @@
 # git branch
 
 - xem tên của các thành viên trong dự án.
-- git checkout -b {branch name}.(câu lệnh để trỏ đến tên thành viên).
+- git checkout -b {branch name}.(câu lệnh để gán tên thành viên). VD: git checkout -b dev thì dev sẽ đc trở thành tên 1 thành viên
