@@ -27,3 +27,9 @@
 - đánh để xem kết quả gọn hơn: git log --oneline
 - git checkout (Id của thời điểm đã lưu).
   VD: git checkout c4759fd
+- git checkout master để quay về thời điểm hiện tại.
+
+# git branch
+
+- xem tên của các thành viên trong dự án.
+- git checkout -b {branch name}.(câu lệnh để trỏ đến tên thành viên).
