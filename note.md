@@ -51,3 +51,5 @@
 # git push
 
 - để đẩy lên trên github.
+- để đặt đường link vào biến -->
+- git remote add (tên biến) (link github)
