@@ -53,3 +53,6 @@
 - để đẩy lên trên github.
 - để đặt đường link vào biến -->
 - git remote add (tên biến) (link github)
+- git fetch origin (để lấy role tạo trên github về).
+- git checkout -b (tên sẽ chứa tên đã lấy về) origin/(tên đã lấy về).
+- git pull (để kéo về thay đổi).
