@@ -47,3 +47,7 @@
 
 - tổng hợp lại code về role chính.
   VD: git merge dev thì code ở role dev sẽ nhập vào role master.
+
+# git push
+
+- để đẩy lên trên github.
