@@ -53,3 +53,4 @@
 - để đẩy lên trên github.
 - để đặt đường link vào biến -->
 - git remote add (tên biến) (link github)
+- git push -u origin (tên role). VD: git push -u origin dev thì dev sẽ đc đẩy lên github.
